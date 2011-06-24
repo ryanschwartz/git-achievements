@@ -2,6 +2,7 @@
 <title>Ryan Schwartz's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
